@@ -135,3 +135,4 @@ document.getElementById("resultado").innerHTML = `
 `;
 
 }
+let aprobado = promedio >= 70;
